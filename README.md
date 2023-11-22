@@ -1,7 +1,7 @@
 # Restaurant Aplication
 
 ## Tecnologías
-**Front-End
+**Front-End**
 - HTML
 - CSS
 - JAVASCRIPT
